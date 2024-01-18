@@ -1,0 +1,26 @@
+.city-input{
+    width: 95%!important;
+    height: 55px;
+    font-size: 1.3rem!important;
+    margin-right: 5px;
+}
+
+.weather-components{
+    border: 1px solid aqua;
+    border-radius: 12px;
+    margin: 10px;
+    height: 130px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.icon-box{
+    margin-right: 90px;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.main-font-color{
+    color: aqua;
+}
