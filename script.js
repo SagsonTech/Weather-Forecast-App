@@ -32,7 +32,7 @@ let updateWeatherIcon = (main) => {
             icon = icon + 'thunderstrom.png';
             break;
         case 'Clouds':
-            icon = icon + 'cloudy.png';
+            icon = icon + 'sun.png';
             break;
         case 'Fog':
             icon = icon + 'mist.png';
