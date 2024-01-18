@@ -38,7 +38,7 @@ let updateWeatherIcon = (main) => {
             icon = icon + 'mist.png';
             break;
         default:
-            icon = icon + 'cloudy.png';
+            icon = icon + 'sun.png';
             break;
     }
 
